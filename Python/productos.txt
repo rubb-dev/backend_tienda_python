@@ -1,0 +1,6 @@
+or1,HpOmen,956.87
+or2,Acer,567.99
+tg1,RTX3060,253.34
+pb1,Gygabyte,134.78
+tg2,RTX2070,120
+pb2,AMD,135
